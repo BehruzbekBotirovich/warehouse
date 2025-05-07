@@ -7,7 +7,7 @@ import AuthBannerComponent from '@/pages/auth/components/AuthBannerComponent.vue
     <a-row class="h-full" justify="center">
       <a-col :sm="24" :md="24" :lg="12" :xl="14">
         <div
-          class="h-full flex items-center lg:items-center xl:justify-center justify-center bg-slate-200 container px-16">
+          class="h-full flex items-center lg:items-center xl:justify-center justify-center bg-[#6941C6] container px-16">
           <AuthBannerComponent />
         </div>
       </a-col>
